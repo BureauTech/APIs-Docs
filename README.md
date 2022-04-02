@@ -1,3 +1,4 @@
+[![License](http://img.shields.io/github/license/BureauTech/APIs-Docs)](https://github.com/BureauTech/APIs-Docs/blob/main/LICENSE)
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/BureauTech/APIs-Docs/)
 
 # Cadastrol-Server-API-Docs
