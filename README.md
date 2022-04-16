@@ -3,7 +3,7 @@
 
 # APIs-Docs
 
-*Castrol-Server-APIs-Docs* is used for adding the documentation regarding the endpoints of [our repository](https://github.com/BureauTech/Cadastrol-Server/).
+*Cadastrol-Server-APIs-Docs* is used for adding the documentation regarding the endpoints of [our repository](https://github.com/BureauTech/Cadastrol-Server/).
 
 The documentation is available at this URL: https://bureautech.github.io/APIs-Docs/
 
